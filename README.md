@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=180&section=header&text=Aakash%20Saini&fontSize=40&fontColor=FFD700" alt="header" align="center"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=180&section=header&text=Aakash%20&fontSize=40&fontColor=FFD700" alt="header" align="center"/>
 
 <!-- Typing Intro -->
 <h1 align="center">
@@ -89,5 +89,4 @@
 
 ---
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=120&section=footer"/>
+
