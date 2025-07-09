@@ -54,5 +54,14 @@
 
 
 
+## 📊 GitHub Stats
+![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ask622&show_icons=true&theme=gruvbox)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ask622&theme=gruvbox)
+
+## 💹 Contribution Graph
+[![Aakash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ask622&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
