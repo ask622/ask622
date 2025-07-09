@@ -1,8 +1,12 @@
-<h1 align="center">Hi there, I'm Aakash  👋</h1>
+
+<h1 align="center">
+  Hey there 👋, I'm <span style="color:#FFA500">Aakash</span>!
+</h1>
 
 <p align="center">
- 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;BCA+in+Data+Science;React+%7C+Node.js+%7C+MongoDB;Open+Source+Enthusiast+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="linkedin.com/in/aakash-59715b257/" target="_blank">
@@ -47,14 +51,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<h1 align="center">
-  Hey there 👋, I'm <span style="color:#FFA500">Aakash</span>!
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;BCA+in+Data+Science;React+%7C+Node.js+%7C+MongoDB;Open+Source+Enthusiast+%F0%9F%91%8D" alt="Typing SVG" />
-</p>
 
 ---
 
