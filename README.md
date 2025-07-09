@@ -48,11 +48,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=ask622&theme=gruvbox&title=Repositories,Commits)
-
-
-
 
 ## 📊 GitHub Stats
 ![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ask622&show_icons=true&theme=gruvbox)
@@ -62,6 +60,3 @@
 
 ## 💹 Contribution Graph
 [![Aakash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ask622&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
