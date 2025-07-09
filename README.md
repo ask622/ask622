@@ -1,3 +1,29 @@
+<h1 align="center">Hi there, I'm Aakash Saini 👋</h1>
+
+<p align="center">
+  <i>Always learning new things</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ask622&label=Profile%20views&color=0e75b6&style=flat" alt="ask622" />
+</p>
+
+
 ## 💫 About Me  
 🎓 BCA Student | Fresher Web Developer from India  
 🌐 Currently learning: Node.js & MongoDB  
