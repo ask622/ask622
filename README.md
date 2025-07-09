@@ -49,7 +49,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ask622&theme=gruvbox&title=Stars,Followers,Repositories,Commits)
+![trophy](https://github-profile-trophy.vercel.app/?username=ask622&theme=gruvbox&title=Repositories,Commits)
 
 
 
