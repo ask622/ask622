@@ -17,7 +17,7 @@
 
 ---
 
-## 🐍 Contribution Snake (2nd Row)
+## 🐍 Contribution Snake 
 ![Snake Animation](https://raw.githubusercontent.com/ask622/snake/output/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -41,13 +41,18 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ask622&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ask622&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ask622&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ask622&layout=compact)
+
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ask622&theme=gruvbox&no-frame=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ask622)
+
 
 ---
 
