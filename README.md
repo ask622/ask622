@@ -40,22 +40,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ask622&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ask622&layout=compact)
-
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ask622)
-
-
----
-
-💡 *Contribution graph (green boxes) GitHub automatically niche show karega.*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=120&section=footer)
